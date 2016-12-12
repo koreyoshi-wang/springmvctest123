@@ -6,9 +6,10 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 @Controller
+@RequestMapping
 public class TestController {
 
-	@RequestMapping("login") // 用来处理前台的login请求
+	@RequestMapping("/login")
 	private @ResponseBody String hello(@RequestParam(value = "username", required = false) String username,
 			@RequestParam(value = "password", required = false) String password) {
 		return "Hello " + username + ",Your password is: " + password;
