@@ -109,7 +109,7 @@
 				<artifactId>maven-war-plugin</artifactId>
 				<version>2.6</version>
 				<configuration>
-					<warName>test</warName><!--war包名 -->
+					<warName>springmvctest123</warName><!--war包名 -->
 				</configuration>
 			</plugin>
 		</plugins>
