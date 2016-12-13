@@ -13,7 +13,11 @@
    -->  
   <servlet>  
     <servlet-name>dispatcher</servlet-name>  
-    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>  
+    <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class> 
+    <init-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>classpath:dispatcher-servlet.xml</param-value>
+	</init-param> 
     <load-on-startup>1</load-on-startup>  
   </servlet>  
   <!-- 设置dispatchservlet的匹配模式，通过把dispatchservlet映射到/，默认servlet会处理所有的请求，包括静态资源 -->  
