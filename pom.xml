@@ -55,6 +55,14 @@
 			<version>${spring.version}</version>
 		</dependency>
 		<!-- spring end -->
+		<!-- mongodb start -->
+		<dependency>  
+		    <groupId>org.mongodb</groupId>  
+		    <artifactId>mongodb-driver</artifactId>  
+		    <version>3.2.2</version>  
+		</dependency>  
+		<!-- mongodb end -->
+		<!-- for heroku start -->
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
@@ -67,9 +75,11 @@
 			<version>2.0</version>
 			<scope>provided</scope>
 		</dependency>
+		<!-- for heroku end -->
 	</dependencies>
 	<build>
 		<finalName>springmvctest123</finalName>
+		<!-- for heroku start -->
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -111,5 +121,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<!-- for heroku end -->
 	</build>
 </project>
