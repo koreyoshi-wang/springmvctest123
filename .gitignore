@@ -75,7 +75,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-/target/
+/target
 ### Maven template
 target/
 pom.xml.tag

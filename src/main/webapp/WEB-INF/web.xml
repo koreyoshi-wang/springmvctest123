@@ -17,7 +17,7 @@
     <init-param>
 		<param-name>contextConfigLocation</param-name>
 		<param-value>classpath:dispatcher-servlet.xml</param-value>
-	</init-param> 
+	</init-param>
     <load-on-startup>1</load-on-startup>  
   </servlet>  
   <!-- 设置dispatchservlet的匹配模式，通过把dispatchservlet映射到/，默认servlet会处理所有的请求，包括静态资源 -->  
