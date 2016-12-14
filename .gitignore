@@ -87,4 +87,5 @@ dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
 # ignore eclipse files
-.project
+.classpath
+.amateras
