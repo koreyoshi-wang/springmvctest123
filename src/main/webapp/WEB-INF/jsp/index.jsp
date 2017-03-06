@@ -6,7 +6,6 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <title>MeiMei</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <link href='http://fonts.useso.com/css?family=Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css' />
 		<link rel="stylesheet" type="text/css" href="${contextPath}/css/windy.css" />
 		<link rel="stylesheet" type="text/css" href="${contextPath}/css/demo.css" />
 		<link rel="stylesheet" type="text/css" href="${contextPath}/css/style2.css" />
