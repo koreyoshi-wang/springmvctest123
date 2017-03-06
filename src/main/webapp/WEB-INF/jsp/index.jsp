@@ -16,71 +16,51 @@
         <div class="container">
 			
 			<header class="">
-				<h2>Navigate content by leafing through it. Keep on pressing the navigation arrows.</h2>	
+				<h2><strong>没见面都这么喜欢的人，怎么甘愿之做朋友。</strong></h2>	
 			</header>
-			
 			<section class="main">
-
 				<div class="windy-demo windy-demo-2">
 					<ul id="wi-el" class="wi-container">
-						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Coco Loko</h4></li>
-						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Vermouth Land</h4></li>
-						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Electrodynamics</h4></li>
-						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Retinal Bliss</h4></li>
-						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Disco Fever</h4></li>
-						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Serenity</h4></li>
-						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Dark Honor</h4></li>
-						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Nested Happiness</h4></li>
-						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Cherry Country</h4></li>
-						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Blossom Delight</h4></li>
-						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Heartbeat</h4></li>
-						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Inner Organs</h4></li>
-						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Wanted Darkness</h4></li>
-						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Blessed Fever</h4></li>
-						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Origins</h4></li>
-						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Fire Lime</h4></li>
-						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Host Rumor</h4></li>
-						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Coco Loko</h4></li>
-						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Vermouth Land</h4></li>
-						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Electrodynamics</h4></li>
-						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Retinal Bliss</h4></li>
-						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Disco Fever</h4></li>
-						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Serenity</h4></li>
-						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Dark Honor</h4></li>
-						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Nested Happiness</h4></li>
-						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Cherry Country</h4></li>
-						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Blossom Delight</h4></li>
-						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Heartbeat</h4></li>
-						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Inner Organs</h4></li>
-						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Wanted Darkness</h4></li>
-						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Blessed Fever</h4></li>
-						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Origins</h4></li>
-						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Fire Lime</h4></li>
-						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Host Rumor</h4></li>
-						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Coco Loko</h4></li>
-						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Vermouth Land</h4></li>
-						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Electrodynamics</h4></li>
-						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Retinal Bliss</h4></li>
-						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Disco Fever</h4></li>
-						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Serenity</h4></li>
-						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Dark Honor</h4></li>
-						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Nested Happiness</h4></li>
-						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Cherry Country</h4></li>
-						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Blossom Delight</h4></li>
-						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Heartbeat</h4></li>
-						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Inner Organs</h4></li>
-						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Wanted Darkness</h4></li>
-						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Blessed Fever</h4></li>
-						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Origins</h4></li>
-						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Fire Lime</h4></li>
-						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Host Rumor</h4></li>
+						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Attractive</h4></li>
+						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Lovely</h4></li>
+						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Pretty</h4></li>
+						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Charming</h4></li>
+						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Cute</h4></li>
+						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Fairness</h4></li>
+						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Pulchritude</h4></li>
+						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Gorgeous</h4></li>
+						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Sightly</h4></li>
+						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Stunning</h4></li>
+						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Alluring</h4></li>
+						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Enchanting</h4></li>
+						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Saucy</h4></li>
+						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Sightly</h4></li>
+						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Attractive</h4></li>
+						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Alluring</h4></li>
+						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Gorgeous</h4></li>
+						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Attractive</h4></li>
+						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Lovely</h4></li>
+						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Pretty</h4></li>
+						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Charming</h4></li>
+						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Cute</h4></li>
+						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Fairness</h4></li>
+						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Pulchritude</h4></li>
+						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Gorgeous</h4></li>
+						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Sightly</h4></li>
+						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Stunning</h4></li>
+						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Alluring</h4></li>
+						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Enchanting</h4></li>
+						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Saucy</h4></li>
+						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Sightly</h4></li>
+						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Attractive</h4></li>
+						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Alluring</h4></li>
+						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Gorgeous</h4></li>
 					</ul>
 					<nav>
 						<span id="nav-prev">prev</span>
 						<span id="nav-next">next</span>
 					</nav>
 				</div>
-				<p class="info"><strong>Tip:</strong> to see the a continuous flow, keep your mouse down on the navigation arrows.</p>
 			</section>
 			
         </div>
@@ -109,11 +89,15 @@
 
 					allownavprev = true;
 					navprev();
+					 if (windy.current == windy.itemsCount-2) {
+						$("h2").text("我希望和你一起贯彻未来");
+					} else if (windy.current == windy.itemsCount-1) {
+						$("h2").text("数遍生命的公路牌");
+					} else {
+						$("h2").text("没见面都这么喜欢的人，怎么甘愿之做朋友。");
+					}
 				
 				} ).on( 'mouseup mouseleave', function( event ) {
-					if (windy.current == 0) {
-						alert(windy.current);
-					}
 					allownavprev = false;
 				
 				} );
@@ -122,11 +106,13 @@
 
 					allownavnext = true;
 					navnext();
-				
-				} ).on( 'mouseup mouseleave', function( event ) {
-					if (windy.current == windy.itemsCount-1) {
-						alert(windy.current);
+					if (windy.current == windy.itemsCount-2) {
+						$("h2").text("我希望和你一起贯彻未来");
+					} else if (windy.current == windy.itemsCount-1) {
+						$("h2").text("数遍生命的公路牌");
 					}
+				} ).on( 'mouseup mouseleave', function( event ) {
+					
 					allownavnext = false;
 				
 				} );
@@ -150,6 +136,7 @@
 				}
 
 			});
+			
 		</script>
     </body>
 </html>
