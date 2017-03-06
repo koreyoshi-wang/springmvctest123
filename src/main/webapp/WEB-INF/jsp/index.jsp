@@ -23,57 +23,57 @@
 
 				<div class="windy-demo windy-demo-2">
 					<ul id="wi-el" class="wi-container">
-						<li><img src="${contextPath}/images/1.jpg" alt="image1"/><h4>Coco Loko</h4></li>
-						<li><img src="${contextPath}/images/2.jpg" alt="image2"/><h4>Vermouth Land</h4></li>
-						<li><img src="${contextPath}/images/3.jpg" alt="image3"/><h4>Electrodynamics</h4></li>
-						<li><img src="${contextPath}/images/4.jpg" alt="image4"/><h4>Retinal Bliss</h4></li>
-						<li><img src="${contextPath}/images/5.jpg" alt="image5"/><h4>Disco Fever</h4></li>
-						<li><img src="${contextPath}/images/6.jpg" alt="image6"/><h4>Serenity</h4></li>
-						<li><img src="${contextPath}/images/7.jpg" alt="image7"/><h4>Dark Honor</h4></li>
-						<li><img src="${contextPath}/images/8.jpg" alt="image8"/><h4>Nested Happiness</h4></li>
-						<li><img src="${contextPath}/images/9.jpg" alt="image9"/><h4>Cherry Country</h4></li>
-						<li><img src="${contextPath}/images/10.jpg" alt="image10"/><h4>Blossom Delight</h4></li>
-						<li><img src="${contextPath}/images/11.jpg" alt="image11"/><h4>Heartbeat</h4></li>
-						<li><img src="${contextPath}/images/12.jpg" alt="image12"/><h4>Inner Organs</h4></li>
-						<li><img src="${contextPath}/images/13.jpg" alt="image13"/><h4>Wanted Darkness</h4></li>
-						<li><img src="${contextPath}/images/14.jpg" alt="image14"/><h4>Blessed Fever</h4></li>
-						<li><img src="${contextPath}/images/15.jpg" alt="image15"/><h4>Origins</h4></li>
-						<li><img src="${contextPath}/images/16.jpg" alt="image16"/><h4>Fire Lime</h4></li>
-						<li><img src="${contextPath}/images/17.jpg" alt="image17"/><h4>Host Rumor</h4></li>
-						<li><img src="${contextPath}/images/1.jpg" alt="image1"/><h4>Coco Loko</h4></li>
-						<li><img src="${contextPath}/images/2.jpg" alt="image2"/><h4>Vermouth Land</h4></li>
-						<li><img src="${contextPath}/images/3.jpg" alt="image3"/><h4>Electrodynamics</h4></li>
-						<li><img src="${contextPath}/images/4.jpg" alt="image4"/><h4>Retinal Bliss</h4></li>
-						<li><img src="${contextPath}/images/5.jpg" alt="image5"/><h4>Disco Fever</h4></li>
-						<li><img src="${contextPath}/images/6.jpg" alt="image6"/><h4>Serenity</h4></li>
-						<li><img src="${contextPath}/images/7.jpg" alt="image7"/><h4>Dark Honor</h4></li>
-						<li><img src="${contextPath}/images/8.jpg" alt="image8"/><h4>Nested Happiness</h4></li>
-						<li><img src="${contextPath}/images/9.jpg" alt="image9"/><h4>Cherry Country</h4></li>
-						<li><img src="${contextPath}/images/10.jpg" alt="image10"/><h4>Blossom Delight</h4></li>
-						<li><img src="${contextPath}/images/11.jpg" alt="image11"/><h4>Heartbeat</h4></li>
-						<li><img src="${contextPath}/images/12.jpg" alt="image12"/><h4>Inner Organs</h4></li>
-						<li><img src="${contextPath}/images/13.jpg" alt="image13"/><h4>Wanted Darkness</h4></li>
-						<li><img src="${contextPath}/images/14.jpg" alt="image14"/><h4>Blessed Fever</h4></li>
-						<li><img src="${contextPath}/images/15.jpg" alt="image15"/><h4>Origins</h4></li>
-						<li><img src="${contextPath}/images/16.jpg" alt="image16"/><h4>Fire Lime</h4></li>
-						<li><img src="${contextPath}/images/17.jpg" alt="image17"/><h4>Host Rumor</h4></li>
-						<li><img src="${contextPath}/images/1.jpg" alt="image1"/><h4>Coco Loko</h4></li>
-						<li><img src="${contextPath}/images/2.jpg" alt="image2"/><h4>Vermouth Land</h4></li>
-						<li><img src="${contextPath}/images/3.jpg" alt="image3"/><h4>Electrodynamics</h4></li>
-						<li><img src="${contextPath}/images/4.jpg" alt="image4"/><h4>Retinal Bliss</h4></li>
-						<li><img src="${contextPath}/images/5.jpg" alt="image5"/><h4>Disco Fever</h4></li>
-						<li><img src="${contextPath}/images/6.jpg" alt="image6"/><h4>Serenity</h4></li>
-						<li><img src="${contextPath}/images/7.jpg" alt="image7"/><h4>Dark Honor</h4></li>
-						<li><img src="${contextPath}/images/8.jpg" alt="image8"/><h4>Nested Happiness</h4></li>
-						<li><img src="${contextPath}/images/9.jpg" alt="image9"/><h4>Cherry Country</h4></li>
-						<li><img src="${contextPath}/images/10.jpg" alt="image10"/><h4>Blossom Delight</h4></li>
-						<li><img src="${contextPath}/images/11.jpg" alt="image11"/><h4>Heartbeat</h4></li>
-						<li><img src="${contextPath}/images/12.jpg" alt="image12"/><h4>Inner Organs</h4></li>
-						<li><img src="${contextPath}/images/13.jpg" alt="image13"/><h4>Wanted Darkness</h4></li>
-						<li><img src="${contextPath}/images/14.jpg" alt="image14"/><h4>Blessed Fever</h4></li>
-						<li><img src="${contextPath}/images/15.jpg" alt="image15"/><h4>Origins</h4></li>
-						<li><img src="${contextPath}/images/16.jpg" alt="image16"/><h4>Fire Lime</h4></li>
-						<li><img src="${contextPath}/images/17.jpg" alt="image17"/><h4>Host Rumor</h4></li>
+						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Coco Loko</h4></li>
+						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Vermouth Land</h4></li>
+						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Electrodynamics</h4></li>
+						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Retinal Bliss</h4></li>
+						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Disco Fever</h4></li>
+						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Serenity</h4></li>
+						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Dark Honor</h4></li>
+						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Nested Happiness</h4></li>
+						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Cherry Country</h4></li>
+						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Blossom Delight</h4></li>
+						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Heartbeat</h4></li>
+						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Inner Organs</h4></li>
+						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Wanted Darkness</h4></li>
+						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Blessed Fever</h4></li>
+						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Origins</h4></li>
+						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Fire Lime</h4></li>
+						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Host Rumor</h4></li>
+						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Coco Loko</h4></li>
+						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Vermouth Land</h4></li>
+						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Electrodynamics</h4></li>
+						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Retinal Bliss</h4></li>
+						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Disco Fever</h4></li>
+						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Serenity</h4></li>
+						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Dark Honor</h4></li>
+						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Nested Happiness</h4></li>
+						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Cherry Country</h4></li>
+						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Blossom Delight</h4></li>
+						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Heartbeat</h4></li>
+						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Inner Organs</h4></li>
+						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Wanted Darkness</h4></li>
+						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Blessed Fever</h4></li>
+						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Origins</h4></li>
+						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Fire Lime</h4></li>
+						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Host Rumor</h4></li>
+						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Coco Loko</h4></li>
+						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Vermouth Land</h4></li>
+						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Electrodynamics</h4></li>
+						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Retinal Bliss</h4></li>
+						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Disco Fever</h4></li>
+						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Serenity</h4></li>
+						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Dark Honor</h4></li>
+						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Nested Happiness</h4></li>
+						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Cherry Country</h4></li>
+						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Blossom Delight</h4></li>
+						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Heartbeat</h4></li>
+						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Inner Organs</h4></li>
+						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Wanted Darkness</h4></li>
+						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Blessed Fever</h4></li>
+						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Origins</h4></li>
+						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Fire Lime</h4></li>
+						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Host Rumor</h4></li>
 					</ul>
 					<nav>
 						<span id="nav-prev">prev</span>

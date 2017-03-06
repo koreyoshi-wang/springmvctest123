@@ -34,7 +34,7 @@
 			rotateX : { min : 40 , max : 90 },
 			rotateY : { min : -15 , max : 15 },
 			rotateZ : { min : -10 , max : 10 },
-			translateX : { min : -200 , max : 200 },
+			translateX : { min : -229 , max : 229 },
 			translateY : { min : -400 , max : -200 },
 			translateZ : { min : 250 , max : 550 }
 		}
