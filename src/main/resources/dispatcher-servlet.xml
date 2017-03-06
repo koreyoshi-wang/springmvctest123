@@ -11,13 +11,15 @@
             http://www.springframework.org/schema/context  
             http://www.springframework.org/schema/context/spring-context.xsd"  
     default-lazy-init="true">  
-      
-    <!-- 通过mvc:resources设置静态资源，这样servlet就会处理这些静态资源，而不通过控制器 -->  
+       
     <!-- 设置不过滤内容，比如:css,jquery,img 等资源文件 -->  
-    <mvc:resources location="/*.html" mapping="/**.html" />  
-    <mvc:resources location="/css/*" mapping="/css/**" />  
-    <mvc:resources location="/js/*" mapping="/js/**" />  
-    <mvc:resources location="/images/*" mapping="/images/**" />  
+    <!-- 静态资源映射 -->
+	<mvc:resources mapping="/images/**" location="/WEB-INF/images/" />
+	<mvc:resources mapping="/css/**" location="/WEB-INF/css/" />
+	<mvc:resources mapping="/js/**" location="/WEB-INF/js/" />
+	<mvc:resources mapping="/html/**" location="/WEB-INF/html/" />
+	<mvc:resources mapping="/fonts/**" location="/WEB-INF/fonts/" />
+	<mvc:resources mapping="/json/**" location="/WEB-INF/json/" /> 
       
     <!-- 添加注解驱动 -->  
     <mvc:annotation-driven />  

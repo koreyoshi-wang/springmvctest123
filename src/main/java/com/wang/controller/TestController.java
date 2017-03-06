@@ -33,12 +33,15 @@ public class TestController {
 	@RequestMapping("/index")
 	private ModelAndView index(HttpServletRequest request,HttpServletResponse response) {
 		ModelAndView modelAndView = new ModelAndView("index");
-		MongoDatabase db = DBUtil.getDB();
+		/*MongoDatabase db = DBUtil.getDB();
 		MongoCollection<Document> coll = db.getCollection("koreyoshi");
 		System.out.println(coll.count());
 		FindIterable<Document> document= coll.find();
 		Document doc = document.first();
-		modelAndView.addObject("session", doc.toJson().toString());
+		modelAndView.addObject("session", doc.toJson().toString());*/
+		
+		modelAndView.addObject("contextPath", request.getContextPath());
+		
 		return modelAndView;
 
 	}
