@@ -38,23 +38,6 @@
 						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Attractive</h4></li>
 						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Alluring</h4></li>
 						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Gorgeous</h4></li>
-						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Attractive</h4></li>
-						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Lovely</h4></li>
-						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Pretty</h4></li>
-						<li><img src="${contextPath}/images/4.JPG" alt="image4"/><h4>Charming</h4></li>
-						<li><img src="${contextPath}/images/5.JPG" alt="image5"/><h4>Cute</h4></li>
-						<li><img src="${contextPath}/images/6.JPG" alt="image6"/><h4>Fairness</h4></li>
-						<li><img src="${contextPath}/images/7.JPG" alt="image7"/><h4>Pulchritude</h4></li>
-						<li><img src="${contextPath}/images/8.JPG" alt="image8"/><h4>Gorgeous</h4></li>
-						<li><img src="${contextPath}/images/9.JPG" alt="image9"/><h4>Sightly</h4></li>
-						<li><img src="${contextPath}/images/10.JPG" alt="image10"/><h4>Stunning</h4></li>
-						<li><img src="${contextPath}/images/11.JPG" alt="image11"/><h4>Alluring</h4></li>
-						<li><img src="${contextPath}/images/12.JPG" alt="image12"/><h4>Enchanting</h4></li>
-						<li><img src="${contextPath}/images/13.JPG" alt="image13"/><h4>Saucy</h4></li>
-						<li><img src="${contextPath}/images/14.JPG" alt="image14"/><h4>Sightly</h4></li>
-						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Attractive</h4></li>
-						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Alluring</h4></li>
-						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Gorgeous</h4></li>
 					</ul>
 					<nav>
 						<span id="nav-prev">prev</span>
@@ -89,12 +72,32 @@
 
 					allownavprev = true;
 					navprev();
-					 if (windy.current == windy.itemsCount-2) {
-						$("h2").text("我希望和你一起贯彻未来");
+					if (windy.current == 1) {
+						$("h2").html("<strong>"+"我想宠着你"+"</strong>");
+					} else if (windy.current == 2) {
+						$("h2").html("<strong>"+"我想惯着你"+"</strong>");
+					} else if (windy.current == 3) {
+						$("h2").html("<strong>"+"我想和你一起做饭"+"</strong>");
+					} else if (windy.current == 4) {
+						$("h2").html("<strong>"+"我想和你一起躺沙发上看电视"+"</strong>");
+					} else if (windy.current == 5) {
+						$("h2").html("<strong>"+"我想和你一起去远方旅行"+"</strong>");
+					} else if (windy.current == 10) {
+						$("h2").html("<strong>"+"我希望我的生命中有你"+"</strong>");
+					} else  if (windy.current == 11) {
+						$("h2").html("<strong>"+"共享快乐悲伤"+"</strong>");
+					} else if (windy.current == 17) {
+						$("h2").html("<strong>"+"我希望我的生命中有你"+"</strong>");
+					} else  if (windy.current == 18) {
+						$("h2").html("<strong>"+"共享快乐悲伤"+"</strong>");
+					} else if (windy.current == 20) {
+						$("h2").html("<strong>"+"我想和你一起虚度时光"+"</strong>");
+					} else if (windy.current == windy.itemsCount-2) {
+						$("h2").html("<strong>"+"我希望和你一起贯彻未来"+"</strong>");
 					} else if (windy.current == windy.itemsCount-1) {
-						$("h2").text("数遍生命的公路牌");
+						$("h2").html("<strong>"+"数遍生命的公路牌"+"</strong>");
 					} else {
-						$("h2").text("没见面都这么喜欢的人，怎么甘愿之做朋友。");
+						$("h2").html("<strong>"+"没见面都这么喜欢的人，怎么甘愿之做朋友。"+"</strong>");
 					}
 				
 				} ).on( 'mouseup mouseleave', function( event ) {
@@ -106,10 +109,32 @@
 
 					allownavnext = true;
 					navnext();
-					if (windy.current == windy.itemsCount-2) {
-						$("h2").text("我希望和你一起贯彻未来");
+					if (windy.current == 1) {
+						$("h2").html("<strong>"+"我想宠着你"+"</strong>");
+					} else if (windy.current == 2) {
+						$("h2").html("<strong>"+"我想惯着你"+"</strong>");
+					} else if (windy.current == 3) {
+						$("h2").html("<strong>"+"我想和你一起做饭"+"</strong>");
+					} else if (windy.current == 4) {
+						$("h2").html("<strong>"+"我想和你一起躺沙发上看电视"+"</strong>");
+					} else if (windy.current == 5) {
+						$("h2").html("<strong>"+"我想和你一起去远方旅行"+"</strong>");
+					} else if (windy.current == 10) {
+						$("h2").html("<strong>"+"我希望我的生命中有你"+"</strong>");
+					} else  if (windy.current == 11) {
+						$("h2").html("<strong>"+"共享快乐悲伤"+"</strong>");
+					} else if (windy.current == 17) {
+						$("h2").html("<strong>"+"我希望我的生命中有你"+"</strong>");
+					} else  if (windy.current == 18) {
+						$("h2").html("<strong>"+"共享快乐悲伤"+"</strong>");
+					} else if (windy.current == 20) {
+						$("h2").html("<strong>"+"我想和你一起虚度时光"+"</strong>");
+					} else if (windy.current == windy.itemsCount-2) {
+						$("h2").html("<strong>"+"我希望和你一起贯彻未来"+"</strong>");
 					} else if (windy.current == windy.itemsCount-1) {
-						$("h2").text("数遍生命的公路牌");
+						$("h2").html("<strong>"+"数遍生命的公路牌"+"</strong>");
+					} else {
+						$("h2").html("<strong>"+"没见面都这么喜欢的人，怎么甘愿之做朋友。"+"</strong>");
 					}
 				} ).on( 'mouseup mouseleave', function( event ) {
 					
