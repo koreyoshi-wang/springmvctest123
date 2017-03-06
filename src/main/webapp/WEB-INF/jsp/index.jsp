@@ -82,6 +82,8 @@
 						$("h2").html("<strong>"+"我想和你一起躺沙发上看电视"+"</strong>");
 					} else if (windy.current == 5) {
 						$("h2").html("<strong>"+"我想和你一起去远方旅行"+"</strong>");
+					} else if (windy.current == 6) {
+						$("h2").html("<strong>"+"我想和你一起做很很多的事"+"</strong>");
 					} else if (windy.current == 10) {
 						$("h2").html("<strong>"+"我希望我的生命中有你"+"</strong>");
 					} else  if (windy.current == 11) {
@@ -119,6 +121,8 @@
 						$("h2").html("<strong>"+"我想和你一起躺沙发上看电视"+"</strong>");
 					} else if (windy.current == 5) {
 						$("h2").html("<strong>"+"我想和你一起去远方旅行"+"</strong>");
+					} else if (windy.current == 6) {
+						$("h2").html("<strong>"+"我想和你一起做很很多的事"+"</strong>");
 					} else if (windy.current == 10) {
 						$("h2").html("<strong>"+"我希望我的生命中有你"+"</strong>");
 					} else  if (windy.current == 11) {
