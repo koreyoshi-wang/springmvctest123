@@ -15,7 +15,7 @@
     	
         <div class="container">
 			
-			<header class="codrops-header">
+			<header class="">
 				<h2>Navigate content by leafing through it. Keep on pressing the navigation arrows.</h2>	
 			</header>
 			
@@ -111,7 +111,9 @@
 					navprev();
 				
 				} ).on( 'mouseup mouseleave', function( event ) {
-
+					if (windy.current == 0) {
+						alert(windy.current);
+					}
 					allownavprev = false;
 				
 				} );
@@ -122,7 +124,9 @@
 					navnext();
 				
 				} ).on( 'mouseup mouseleave', function( event ) {
-
+					if (windy.current == windy.itemsCount-1) {
+						alert(windy.current);
+					}
 					allownavnext = false;
 				
 				} );
