@@ -4,7 +4,7 @@
     <head>
 		<meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-        <title>风吹图片效果</title>
+        <title>MeiMei</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
         <link href='http://fonts.useso.com/css?family=Open+Sans+Condensed:700,300' rel='stylesheet' type='text/css' />
 		<link rel="stylesheet" type="text/css" href="${contextPath}/css/windy.css" />
@@ -17,8 +17,6 @@
         <div class="container">
 			
 			<header class="codrops-header">
-			
-				<h1><strong>Windy</strong> &ndash; 风吹图片效果</h1>
 				<h2>Navigate content by leafing through it. Keep on pressing the navigation arrows.</h2>	
 			</header>
 			
