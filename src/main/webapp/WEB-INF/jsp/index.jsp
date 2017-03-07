@@ -16,7 +16,7 @@
         <div class="container">
 			
 			<header class="">
-				<h2><strong>没见面都这么喜欢的人，怎么甘愿之做朋友。</strong></h2>	
+				<h2><strong>没见面都这么喜欢的人，怎么甘愿只做朋友。</strong></h2>	
 			</header>
 			<section class="main">
 				<div class="windy-demo windy-demo-2">
