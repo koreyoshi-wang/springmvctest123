@@ -12,15 +12,16 @@
 		<script type="text/javascript" src="${contextPath}/js/modernizr.custom.79639.js"></script>
     </head>
     <body>
-    	<audio autoplay="autoplay" ><source src="${contextPath}/music/until_you.mp3" type="audio/mpeg" />Until You</audio>
+    	<audio autoplay="autoplay" loop="loop" ><source src="${contextPath}/music/until_you.mp3" type="audio/mpeg" />Until You</audio>
         <div class="container">
 			
 			<header class="">
-				<h2><strong>没见面都这么喜欢的人，怎么甘愿只做朋友。</strong></h2>	
+				<h2><strong>世界那么大，我们一起去旅行。</strong></h2>	
 			</header>
 			<section class="main">
 				<div class="windy-demo windy-demo-2">
 					<ul id="wi-el" class="wi-container">
+					<li><img src="${contextPath}/images/29.JPG" alt="image6"/><h4>Fairness</h4></li>
 						<li><img src="${contextPath}/images/1.JPG" alt="image1"/><h4>Attractive</h4></li>
 						<li><img src="${contextPath}/images/2.JPG" alt="image2"/><h4>Lovely</h4></li>
 						<li><img src="${contextPath}/images/3.JPG" alt="image3"/><h4>Pretty</h4></li>
@@ -38,6 +39,17 @@
 						<li><img src="${contextPath}/images/15.JPG" alt="image15"/><h4>Attractive</h4></li>
 						<li><img src="${contextPath}/images/16.JPG" alt="image16"/><h4>Alluring</h4></li>
 						<li><img src="${contextPath}/images/17.JPG" alt="image17"/><h4>Gorgeous</h4></li>
+						<li><img src="${contextPath}/images/18.JPG" alt="image18"/><h4>Gorgeous</h4></li>
+						<li><img src="${contextPath}/images/19.JPG" alt="image19"/><h4>Sightly</h4></li>
+						<li><img src="${contextPath}/images/20.JPG" alt="image20"/><h4>Stunning</h4></li>
+						<li><img src="${contextPath}/images/21.JPG" alt="image21"/><h4>Alluring</h4></li>
+						<li><img src="${contextPath}/images/22.JPG" alt="image22"/><h4>Enchanting</h4></li>
+						<li><img src="${contextPath}/images/23.JPG" alt="image23"/><h4>Saucy</h4></li>
+						<li><img src="${contextPath}/images/24.JPG" alt="image24"/><h4>Sightly</h4></li>
+						<li><img src="${contextPath}/images/25.JPG" alt="image25"/><h4>Attractive</h4></li>
+						<li><img src="${contextPath}/images/26.JPG" alt="image26"/><h4>Alluring</h4></li>
+						<li><img src="${contextPath}/images/27.JPG" alt="image27"/><h4>Gorgeous</h4></li>
+						<li><img src="${contextPath}/images/28.JPG" alt="image28"/><h4>Gorgeous</h4></li>
 					</ul>
 					<nav>
 						<span id="nav-prev">prev</span>
@@ -72,7 +84,9 @@
 
 					allownavprev = true;
 					navprev();
-					if (windy.current == 1) {
+					if (windy.current == 0) {
+						$("h2").html("<strong>"+"世界那么大，我们一起去旅行。"+"</strong>");
+					} else if (windy.current == 1) {
 						$("h2").html("<strong>"+"我想宠着你"+"</strong>");
 					} else if (windy.current == 2) {
 						$("h2").html("<strong>"+"我想惯着你"+"</strong>");
@@ -94,10 +108,14 @@
 						$("h2").html("<strong>"+"共享快乐悲伤"+"</strong>");
 					} else if (windy.current == 20) {
 						$("h2").html("<strong>"+"我想和你一起虚度时光"+"</strong>");
-					} else if (windy.current == windy.itemsCount-2) {
+					} else if (windy.current == windy.itemsCount-12) {
 						$("h2").html("<strong>"+"我希望和你一起贯彻未来"+"</strong>");
-					} else if (windy.current == windy.itemsCount-1) {
+					} else if (windy.current == windy.itemsCount-11) {
 						$("h2").html("<strong>"+"数遍生命的公路牌"+"</strong>");
+					} else if (windy.current == windy.itemsCount-2) {
+						$("h2").html("<strong>"+"和你一起，相拥而坐都觉得自己是最幸福的人"+"</strong>");
+					} else if (windy.current == windy.itemsCount-1) {
+						$("h2").html("<strong>"+"前面的路还很长，我们牵手而行。"+"</strong>");
 					} else {
 						$("h2").html("<strong>"+"没见面都这么喜欢的人，怎么甘愿之做朋友。"+"</strong>");
 					}
@@ -111,7 +129,9 @@
 
 					allownavnext = true;
 					navnext();
-					if (windy.current == 1) {
+					if (windy.current == 0) {
+						$("h2").html("<strong>"+"世界那么大，我们一起去旅行。"+"</strong>");
+					} else if (windy.current == 1) {
 						$("h2").html("<strong>"+"我想宠着你"+"</strong>");
 					} else if (windy.current == 2) {
 						$("h2").html("<strong>"+"我想惯着你"+"</strong>");
@@ -133,10 +153,14 @@
 						$("h2").html("<strong>"+"共享快乐悲伤"+"</strong>");
 					} else if (windy.current == 20) {
 						$("h2").html("<strong>"+"我想和你一起虚度时光"+"</strong>");
-					} else if (windy.current == windy.itemsCount-2) {
+					} else if (windy.current == windy.itemsCount-12) {
 						$("h2").html("<strong>"+"我希望和你一起贯彻未来"+"</strong>");
-					} else if (windy.current == windy.itemsCount-1) {
+					} else if (windy.current == windy.itemsCount-11) {
 						$("h2").html("<strong>"+"数遍生命的公路牌"+"</strong>");
+					} else if (windy.current == windy.itemsCount-2) {
+						$("h2").html("<strong>"+"和你一起，相拥而坐都觉得自己是最幸福的人"+"</strong>");
+					} else if (windy.current == windy.itemsCount-1) {
+						$("h2").html("<strong>"+"前面的路还很长，我们牵手而行。"+"</strong>");
 					} else {
 						$("h2").html("<strong>"+"没见面都这么喜欢的人，怎么甘愿之做朋友。"+"</strong>");
 					}
