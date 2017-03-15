@@ -20,6 +20,7 @@
 	<mvc:resources mapping="/html/**" location="/WEB-INF/html/" />
 	<mvc:resources mapping="/fonts/**" location="/WEB-INF/fonts/" />
 	<mvc:resources mapping="/json/**" location="/WEB-INF/json/" /> 
+	<mvc:resources mapping="/music/**" location="/WEB-INF/music/" /> 
       
     <!-- 添加注解驱动 -->  
     <mvc:annotation-driven />  
