@@ -12,7 +12,7 @@
 		<script type="text/javascript" src="${contextPath}/js/modernizr.custom.79639.js"></script>
     </head>
     <body>
-    	<audio autoplay="autoplay" loop="loop" controls="controls">
+    	<audio autoplay="autoplay" loop="loop" controls="controls" style="width:100%">
     		<source src="${contextPath}/music/until_you.mp3" type="audio/mpeg" />
     		<source src="${contextPath}/music/until_you.mp3" type="audio/ogg">
     		Until You
@@ -193,6 +193,10 @@
 				}
 
 			});
+			
+			$(function(){
+			   $("audio")[0].play(); 
+			})
 			
 		</script>
     </body>
