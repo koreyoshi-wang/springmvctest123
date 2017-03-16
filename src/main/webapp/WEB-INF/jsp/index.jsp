@@ -12,7 +12,11 @@
 		<script type="text/javascript" src="${contextPath}/js/modernizr.custom.79639.js"></script>
     </head>
     <body>
-    	<audio autoplay="autoplay" loop="loop" ><source src="${contextPath}/music/until_you.mp3" type="audio/mpeg" />Until You</audio>
+    	<audio autoplay="autoplay" loop="loop" controls="controls">
+    		<source src="${contextPath}/music/until_you.mp3" type="audio/mpeg" />
+    		<source src="${contextPath}/music/until_you.mp3" type="audio/ogg">
+    		Until You
+    	</audio>
         <div class="container">
 			
 			<header class="">
